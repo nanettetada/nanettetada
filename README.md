@@ -19,7 +19,7 @@
 
 ## :rocket: About me
 
-I'm a Health Data Science student building a portfolio of data-science projects that go all the way from raw data to served model. I care about the parts most tutorials skip: leakage-proof pipelines, proper class imbalance handling, useful evaluation, and putting a model behind something a stakeholder can actually click.
+I'm a Data Science student building a portfolio of data-science projects that go all the way from raw data to served model. I care about the parts most tutorials skip: leakage-proof pipelines, proper class imbalance handling, useful evaluation, and putting a model behind something a stakeholder can actually click.
 
 When I'm not modelling I'm reading about how teams ship ML in production — what to monitor, when to retrain, how to make a model explainable without slowing it down.
 
