@@ -82,15 +82,15 @@ When I'm not modelling I'm reading about how teams ship ML in production — wha
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/nanettetada/credit-risk-mlops">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=credit-risk-mlops&theme=tokyonight&border_radius=12" />
+<a href="https://github.com/nanettetada/microfinance-credit-risk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=microfinance-credit-risk&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>End-to-end loan default prediction: XGBoost + FastAPI + Docker + pytest + Streamlit dashboard.</sub>
+<sub>End-to-end Zimbabwean microfinance default prediction: XGBoost + FastAPI + Docker + pytest + Streamlit.</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/nanettetada/rag-document-qa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=rag-document-qa&theme=tokyonight&border_radius=12" />
+<a href="https://github.com/nanettetada/doc-grounded-rag">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=doc-grounded-rag&theme=tokyonight&border_radius=12" />
 </a>
 <br />
 <sub>Retrieval-augmented Q&A over your own documents — FAISS + sentence-transformers + Streamlit.</sub>
@@ -98,31 +98,31 @@ When I'm not modelling I'm reading about how teams ship ML in production — wha
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/nanettetada/customer-churn-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=customer-churn-prediction&theme=tokyonight&border_radius=12" />
+<a href="https://github.com/nanettetada/zim-telco-churn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=zim-telco-churn&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>Telco churn classifier with SMOTE, XGBoost and SHAP. ROC-AUC 0.89.</sub>
+<sub>Zim ISP churn classifier — EcoCash payments, ZOL/Liquid/TelOne providers. ROC-AUC 0.89.</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/nanettetada/house-price-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=house-price-prediction&theme=tokyonight&border_radius=12" />
+<a href="https://github.com/nanettetada/harare-property-prices">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=harare-property-prices&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>California housing regression with a stacked ensemble. R² 0.84 on hold-out.</sub>
+<sub>Harare property price regression with a stacked ensemble across 17 suburbs.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/nanettetada/customer-segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=customer-segmentation&theme=tokyonight&border_radius=12" />
+<a href="https://github.com/nanettetada/zim-retail-personas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=zim-retail-personas&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>K-Means customer segmentation on RFM features with PCA visualisation and business personas.</sub>
+<sub>K-Means retail customer personas on RFM features with PCA visualisation and concrete actions.</sub>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/nanettetada/sentiment-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=sentiment-analysis&theme=tokyonight&border_radius=12" />
+<a href="https://github.com/nanettetada/review-sentiment-engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=review-sentiment-engine&theme=tokyonight&border_radius=12" />
 </a>
 <br />
 <sub>TF-IDF + linear classifiers vs DistilBERT. 94% accuracy at 1% the cost.</sub>
