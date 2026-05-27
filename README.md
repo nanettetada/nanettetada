@@ -86,14 +86,14 @@ When I'm not modelling I'm reading about how teams ship ML in production — wha
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=microfinance-credit-risk&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>End-to-end Zimbabwean microfinance default prediction: XGBoost + FastAPI + Docker + pytest + Streamlit.</sub>
+<sub>End-to-end Zimbabwean microfinance default prediction: XGBoost + FastAPI + Docker + pytest + Streamlit.</sub><br /><a href="https://huggingface.co/spaces/NanetteTada/microfinance-credit-risk"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-FFD21E?style=flat-square" /></a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/nanettetada/doc-grounded-rag">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=doc-grounded-rag&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>Retrieval-augmented Q&A over your own documents — FAISS + sentence-transformers + Streamlit.</sub>
+<sub>Retrieval-augmented Q&A over your own documents — FAISS + sentence-transformers + Streamlit.</sub><br /><a href="https://huggingface.co/spaces/NanetteTada/doc-grounded-rag"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-FFD21E?style=flat-square" /></a>
 </td>
 </tr>
 <tr>
@@ -102,14 +102,14 @@ When I'm not modelling I'm reading about how teams ship ML in production — wha
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=zim-telco-churn&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>Zim ISP churn classifier — EcoCash payments, ZOL/Liquid/TelOne providers. ROC-AUC 0.89.</sub>
+<sub>Zim ISP churn classifier — EcoCash payments, ZOL/Liquid/TelOne providers. ROC-AUC 0.89.</sub><br /><a href="https://huggingface.co/spaces/NanetteTada/telco-churn-zim"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-FFD21E?style=flat-square" /></a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/nanettetada/harare-property-prices">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=harare-property-prices&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>Harare property price regression with a stacked ensemble across 17 suburbs.</sub>
+<sub>Harare property price regression with a stacked ensemble across 17 suburbs.</sub><br /><a href="https://huggingface.co/spaces/NanetteTada/harare-property-prices"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-FFD21E?style=flat-square" /></a>
 </td>
 </tr>
 <tr>
@@ -118,14 +118,14 @@ When I'm not modelling I'm reading about how teams ship ML in production — wha
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=zim-retail-personas&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>K-Means retail customer personas on RFM features with PCA visualisation and concrete actions.</sub>
+<sub>K-Means retail customer personas on RFM features with PCA visualisation and concrete actions.</sub><br /><a href="https://huggingface.co/spaces/NanetteTada/zim-retail-personas"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-FFD21E?style=flat-square" /></a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/nanettetada/review-sentiment-engine">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanettetada&repo=review-sentiment-engine&theme=tokyonight&border_radius=12" />
 </a>
 <br />
-<sub>TF-IDF + linear classifiers vs DistilBERT. 94% accuracy at 1% the cost.</sub>
+<sub>TF-IDF + linear classifiers vs DistilBERT. 94% accuracy at 1% the cost.</sub><br /><a href="https://huggingface.co/spaces/NanetteTada/review-sentiment-engine"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-FFD21E?style=flat-square" /></a>
 </td>
 </tr>
 </table>
