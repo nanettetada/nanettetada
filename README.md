@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,25:E74C3C,50:F39C12,75:27AE60,100:2E86C1&height=260&section=header&text=Tadaishe%20Maumbe&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=data%20scientist%20in%20training%20%E2%80%A2%20building%20things%20that%20ship&descSize=18&descAlignY=62" />
 
 <a href="https://github.com/nanettetada">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=900&color=8E44AD&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Tadaishe.+%F0%9F%91%8B;Data+science+student+%E2%80%A2+Health+Data+Science+programme;I+build+ML+that+goes+further+than+the+notebook;Classification+%E2%80%A2+Regression+%E2%80%A2+Clustering+%E2%80%A2+NLP+%E2%80%A2+MLOps+%E2%80%A2+RAG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=900&color=8E44AD&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Tadaishe.+%F0%9F%91%8B;Data+science+student+%E2%80%A2+Data+Science+programme;I+build+ML+that+goes+further+than+the+notebook;Classification+%E2%80%A2+Regression+%E2%80%A2+Clustering+%E2%80%A2+NLP+%E2%80%A2+MLOps+%E2%80%A2+RAG" />
 </a>
 
 <br />
